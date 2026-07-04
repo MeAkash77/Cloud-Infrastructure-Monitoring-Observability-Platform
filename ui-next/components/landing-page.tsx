@@ -207,7 +207,7 @@ export function LandingPage() {
             <span className="text-gray-600 dark:text-gray-400 font-medium text-sm sm:text-base">Built with</span>
             <span className="text-red-500 animate-pulse">❤️</span>
             <span className="text-gray-600 dark:text-gray-400 font-medium text-sm sm:text-base">by</span>
-            <span className="font-bold bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent text-sm sm:text-base">Harshhaa</span>
+            <span className="font-bold bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent text-sm sm:text-base">Akash</span>
           </div>
         </motion.div>
       </div>
