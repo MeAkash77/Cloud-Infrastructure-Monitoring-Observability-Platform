@@ -425,7 +425,7 @@ export const Sidebar = memo(() => {
                 <div className="flex items-center justify-center space-x-2 text-sm text-gray-600 dark:text-gray-400">
                   <span>Built with</span>
                   <Heart className="h-4 w-4 text-red-500 animate-pulse" />
-                  <span>by Harshhaa</span>
+                  <span>by Akash</span>
                 </div>
               </div>
             ) : (
